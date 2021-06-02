@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+<orientation position="512" view="org.coocox.component.ui.Help"/>
+</fastViewData>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.coocox.welcome.ui.WelcomePage" name="" partName="welcome" title="welcome" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.welcome.ui.WelcomePage/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/CooCox/CoIDE/workspace/idz/main.c" title="main.c" tooltip="C:/CooCox/CoIDE/workspace/idz/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="14816" selectionTopPixel="8115"/>
+</editor>
+<editor activePart="true" focus="true" id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="2" verticalPosition="0"/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Serial.c" partName="Serial.c" path="C:/CooCox/CoIDE/workspace/idz/stm_lib/src/Serial.c" title="Serial.c" tooltip="C:/CooCox/CoIDE/workspace/idz/stm_lib/src/Serial.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stm_lib/src/Serial.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="330" selectionTopPixel="68"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="printf.c" partName="printf.c" path="C:/CooCox/CoIDE/workspace/idz/stdio/printf.c" title="printf.c" tooltip="C:/CooCox/CoIDE/workspace/idz/stdio/printf.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stdio/printf.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11509" selectionTopPixel="8045"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="hd44780.h" partName="hd44780.h" path="C:/CooCox/CoIDE/workspace/idz/stm_lib/inc/hd44780.h" title="hd44780.h" tooltip="C:/CooCox/CoIDE/workspace/idz/stm_lib/inc/hd44780.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stm_lib/inc/hd44780.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2737" selectionTopPixel="840"/>
+</editor>
+<editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="0" subPageIndex="2" verticalPosition="0"/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_it.c" partName="stm32_it.c" path="C:/CooCox/CoIDE/workspace/idz/stm32_it.c" title="stm32_it.c" tooltip="C:/CooCox/CoIDE/workspace/idz/stm32_it.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stm32_it.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6266" selectionTopPixel="2878"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="sh_cmd.s" partName="sh_cmd.s" path="C:/CooCox/CoIDE/workspace/idz/semihosting/sh_cmd.s" title="sh_cmd.s" tooltip="C:/CooCox/CoIDE/workspace/idz/semihosting/sh_cmd.s" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/semihosting/sh_cmd.s"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2032" selectionTopPixel="606"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_pwr.h" partName="usb_pwr.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_pwr.h" title="usb_pwr.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_pwr.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_pwr.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="1617" selectionTopPixel="433"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_it.h" partName="stm32_it.h" path="C:/CooCox/CoIDE/workspace/idz/stm32_it.h" title="stm32_it.h" tooltip="C:/CooCox/CoIDE/workspace/idz/stm32_it.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stm32_it.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1815" selectionTopPixel="85"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="startup_stm32f10x_md.c" partName="startup_stm32f10x_md.c" path="C:/CooCox/CoIDE/workspace/idz/cmsis_boot/startup/startup_stm32f10x_md.c" title="startup_stm32f10x_md.c" tooltip="C:/CooCox/CoIDE/workspace/idz/cmsis_boot/startup/startup_stm32f10x_md.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/cmsis_boot/startup/startup_stm32f10x_md.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2174" selectionTopPixel="674"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_init.c" partName="usb_init.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_init.c" title="usb_init.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_init.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_init.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="1866" selectionTopPixel="544"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="hw_config.c" partName="hw_config.c" path="C:/CooCox/CoIDE/workspace/idz/hw_config.c" title="hw_config.c" tooltip="C:/CooCox/CoIDE/workspace/idz/hw_config.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/hw_config.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8948" selectionTopPixel="4152"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x_exti.h" partName="stm32f10x_exti.h" path="C:/CooCox/CoIDE/workspace/idz/stm_lib/inc/stm32f10x_exti.h" title="stm32f10x_exti.h" tooltip="C:/CooCox/CoIDE/workspace/idz/stm_lib/inc/stm32f10x_exti.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stm_lib/inc/stm32f10x_exti.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="4704" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_istr.c" partName="usb_istr.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_istr.c" title="usb_istr.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_istr.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_istr.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3081" selectionTopPixel="3241"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_mem.c" partName="usb_mem.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_mem.c" title="usb_mem.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_mem.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_mem.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2551" selectionTopPixel="505"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="hd44780.c" partName="hd44780.c" path="C:/CooCox/CoIDE/workspace/idz/stm_lib/src/hd44780.c" title="hd44780.c" tooltip="C:/CooCox/CoIDE/workspace/idz/stm_lib/src/hd44780.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/stm_lib/src/hd44780.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="12806" selectionTopPixel="7593"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="hw_config.h" partName="hw_config.h" path="C:/CooCox/CoIDE/workspace/idz/hw_config.h" title="hw_config.h" tooltip="C:/CooCox/CoIDE/workspace/idz/hw_config.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/hw_config.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1796" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x.h" partName="stm32f10x.h" path="C:/CooCox/CoIDE/workspace/idz/cmsis_boot/stm32f10x.h" title="stm32f10x.h" tooltip="C:/CooCox/CoIDE/workspace/idz/cmsis_boot/stm32f10x.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/cmsis_boot/stm32f10x.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="59028" selectionTopPixel="23342"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_istr.h" partName="usb_istr.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_istr.h" title="usb_istr.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_istr.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_istr.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1799" selectionTopPixel="544"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_int.h" partName="usb_int.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_int.h" title="usb_int.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_int.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_int.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_core.c" partName="usb_core.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_core.c" title="usb_core.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_core.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_core.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="30094" selectionTopPixel="16949"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_conf.h" partName="usb_conf.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_conf.h" title="usb_conf.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_conf.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_conf.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3233" selectionTopPixel="1112"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_endp.c" partName="usb_endp.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_endp.c" title="usb_endp.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_endp.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_endp.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2900" selectionTopPixel="627"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_core.h" partName="usb_core.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_core.h" title="usb_core.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_core.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_core.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="4609" selectionTopPixel="2682"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="platform_config.h" partName="platform_config.h" path="C:/CooCox/CoIDE/workspace/idz/platform_config.h" title="platform_config.h" tooltip="C:/CooCox/CoIDE/workspace/idz/platform_config.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/platform_config.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="1879" selectionTopPixel="238"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="semihosting.h" partName="semihosting.h" path="C:/CooCox/CoIDE/workspace/idz/semihosting/semihosting.h" title="semihosting.h" tooltip="C:/CooCox/CoIDE/workspace/idz/semihosting/semihosting.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/semihosting/semihosting.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="semihosting.c" partName="semihosting.c" path="C:/CooCox/CoIDE/workspace/idz/semihosting/semihosting.c" title="semihosting.c" tooltip="C:/CooCox/CoIDE/workspace/idz/semihosting/semihosting.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/semihosting/semihosting.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="841" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_desc.c" partName="usb_desc.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_desc.c" title="usb_desc.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_desc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_desc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4939" selectionTopPixel="1770"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_regs.h" partName="usb_regs.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_regs.h" title="usb_regs.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_regs.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_regs.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="3628" selectionTopPixel="1411"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_lib.h" partName="usb_lib.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_lib.h" title="usb_lib.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_lib.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_lib.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_type.h" partName="usb_type.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_type.h" title="usb_type.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_type.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_type.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_regs.c" partName="usb_regs.c" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_regs.c" title="usb_regs.c" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_regs.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_regs.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_desc.h" partName="usb_desc.h" path="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_desc.h" title="usb_desc.h" tooltip="C:/CooCox/CoIDE/workspace/idz/STM32_USB-FS-Device_Lib/usb_desc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/idz/STM32_USB-FS-Device_Lib/usb_desc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<expanded>
+<element path="/idz"/>
+</expanded>
+<selection>
+<element path="/idz/main.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.coocox.builder.ui.editors.ConfigEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.coocox.component.ui.ComponentView"/>
+<view id="org.coocox.component.ui.Help"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@a07d89">
+<folder activePageID="org.coocox.component.ui.ComponentView" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="Components"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.74960214" ratioLeft="1413" ratioRight="472" relationship="2" relative="org.eclipse.ui.internal.ViewStack@a07d89">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.16186485" ratioLeft="309" ratioRight="1600" relationship="2" relative="org.eclipse.ui.internal.ViewStack@a07d89"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1a89f9d" ratio="0.86445016" ratioLeft="676" ratioRight="106" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder activePageID="org.coocox.component.ui.Help" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44952178" ratioLeft="423" ratioRight="518" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@10b7d6c" ratio="0.90618336" ratioLeft="850" ratioRight="88" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@91c33c" ratio="0.36981934" ratioLeft="348" ratioRight="593" relationship="4" relative="org.eclipse.ui.internal.ViewStack@a07d89">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/hw_config.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/hw_config.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/stm32_it.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/platform_config.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_endp.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_init.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/stm32_it.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_desc.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_regs.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_lib.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_type.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_regs.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/idz/STM32_USB-FS-Device_Lib/usb_desc.h"/>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="0" verticalPosition="0"/>
+</editor>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="2" verticalPosition="0"/>
+</editor>
+</editors>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="3965" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="11932" y="0"/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="5919" y="14"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="11954" y="0"/>
+</item>
+<item historyLabel="usb_init.c" index="6">
+<position info="not_deleted" x="2935" y="8"/>
+</item>
+<item historyLabel="usb_init.c" index="6">
+<position info="not_deleted" x="2971" y="0"/>
+</item>
+<item historyLabel="usb_init.c" index="6">
+<position info="not_deleted" x="2312" y="11"/>
+</item>
+<item historyLabel="usb_init.c" index="6">
+<position info="not_deleted" x="2963" y="0"/>
+</item>
+<item historyLabel="usb_init.c" index="6">
+<position info="not_deleted" x="1866" y="12"/>
+</item>
+<item historyLabel="platform_config.h" index="4">
+<position info="not_deleted" x="1879" y="20"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="12059" y="0"/>
+</item>
+<item historyLabel="hw_config.h" index="2">
+<position info="not_deleted" x="1796" y="0"/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="5919" y="14"/>
+</item>
+<item historyLabel="stm32_it.c" index="3">
+<position info="not_deleted" x="6266" y="0"/>
+</item>
+<item historyLabel="stm32_it.h" index="7">
+<position info="not_deleted" x="1815" y="0"/>
+</item>
+<item historyLabel="usb_desc.c" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="9441" y="0"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position info="not_deleted" x="2775" y="0"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position info="not_deleted" x="1875" y="14"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="9437" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="12049" y="0"/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="8620" y="13"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="9469" y="0"/>
+</item>
+<item historyLabel="usb_regs.h" index="9">
+<position info="not_deleted" x="3628" y="5"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="9430" y="43"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="13654" y="0"/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="8620" y="13"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="13785" y="0"/>
+</item>
+<item historyLabel="usb_lib.h" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="usb_type.h" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="usb_regs.c" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position info="not_deleted" x="2495" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="881" y="0"/>
+</item>
+<item historyLabel="usb_endp.c" index="5">
+<position info="not_deleted" x="2900" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="13647" y="0"/>
+</item>
+<item historyLabel="hw_config.c" index="1">
+<position info="not_deleted" x="8948" y="0"/>
+</item>
+<item historyLabel="usb_desc.h" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="usb_desc.c" index="8">
+<position info="not_deleted" x="4939" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="13792" y="922"/>
+</item>
+<item historyLabel="Configuration" index="14"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="13792" y="922"/>
+</item>
+<item active="true" historyLabel="Configuration" index="15"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_desc.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_desc.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_desc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_regs.c" tooltip="idz/STM32_USB-FS-Device_Lib/usb_regs.c">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_regs.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_type.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_type.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_type.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_lib.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_lib.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_lib.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_regs.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_regs.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_regs.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_desc.c" tooltip="idz/STM32_USB-FS-Device_Lib/usb_desc.c">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_desc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="semihosting.c" tooltip="idz/semihosting/semihosting.c">
+<persistable path="/idz/semihosting/semihosting.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="semihosting.h" tooltip="idz/semihosting/semihosting.h">
+<persistable path="/idz/semihosting/semihosting.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="platform_config.h" tooltip="idz/platform_config.h">
+<persistable path="/idz/platform_config.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_core.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_core.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_core.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_endp.c" tooltip="idz/STM32_USB-FS-Device_Lib/usb_endp.c">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_endp.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_conf.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_conf.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_conf.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_core.c" tooltip="idz/STM32_USB-FS-Device_Lib/usb_core.c">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_core.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_int.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_int.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_int.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_istr.h" tooltip="idz/STM32_USB-FS-Device_Lib/usb_istr.h">
+<persistable path="/idz/STM32_USB-FS-Device_Lib/usb_istr.h"/>
+</file>
+</mruList>
+</workbench>

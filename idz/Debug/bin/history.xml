@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.5.2 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=idz.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\idz -TC:\CooCox\CoIDE\configuration\ProgramData\idz/link.ld -g">
+      <target file="idz.elf" lastModified="171a8119d7e">
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="1719db689de"/>
+         <source file="..\obj\semihosting.o" lastModified="1719db68a12"/>
+         <source file="..\obj\usb_core.o" lastModified="171a7e98a67"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="1719db68acb"/>
+         <source file="..\obj\usb_int.o" lastModified="171a7e98a98"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1719db68b25"/>
+         <source file="..\obj\usb_desc.o" lastModified="171a7e98ac1"/>
+         <source file="..\obj\usb_regs.o" lastModified="171a7e98b14"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="1719db68be9"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="1719db68bca"/>
+         <source file="..\obj\hw_config.o" lastModified="171a7f40110"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="1719db68c50"/>
+         <source file="..\obj\usb_prop.o" lastModified="171a7e98c40"/>
+         <source file="..\obj\usb_pwr.o" lastModified="171a7e98c72"/>
+         <source file="..\obj\usb_init.o" lastModified="171a7e98c9c"/>
+         <source file="..\obj\main.o" lastModified="171a8119bb2"/>
+         <source file="..\obj\printf.o" lastModified="1719db68e10"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1719db68e4d"/>
+         <source file="..\obj\hd44780.o" lastModified="1719db68e8a"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="1719db68eb7"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="1719db68ef6"/>
+         <source file="..\obj\usb_sil.o" lastModified="171a7e9aaed"/>
+         <source file="..\obj\sh_cmd.o" lastModified="1719db68f28"/>
+         <source file="..\obj\syscalls.o" lastModified="1719db68f53"/>
+         <source file="..\obj\stm32_it.o" lastModified="171a7e9ab1a"/>
+         <source file="..\obj\Serial.o" lastModified="1719db68fa8"/>
+         <source file="..\obj\usb_endp.o" lastModified="171a7f848f3"/>
+         <source file="..\obj\misc.o" lastModified="1719db68ffd"/>
+         <source file="..\obj\usb_mem.o" lastModified="171a7e9ab78"/>
+         <source file="..\obj\usb_istr.o" lastModified="171a7e9aba7"/>
+      </target>
+   </processor>
+</history>
